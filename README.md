@@ -38,8 +38,8 @@ Automated HR Department data collection and reporting using Excel and SQL. The t
 
 ## 📫 Contact
 
-- **Instagram:** [@your_instagram_handle](https://instagram.com/sunny__og)
-- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/sunny-sharma-793369378)
+- **Instagram:** (https://instagram.com/sunny__og)
+- **LinkedIn:** (https://linkedin.com/in/sunny-sharma-793369378)
 
 Feel free to connect with me for collaborations, opportunities, or just to say hello!
 
