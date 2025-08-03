@@ -6,6 +6,13 @@ Welcome to my portfolio repository! I am Sunny Sharma, a passionate Business Ana
 ---
 
 ## 👤 About Me
+> I’m a B.Com student currently pursuing the Company Secretary (CS) course, with a strong foundation in finance, taxation, and corporate law. Alongside my academic journey, I’ve developed a deep interest in data analytics and business intelligence.
+
+I’m skilled in Power BI, Excel, and SQL, and have built interactive dashboards on topics like retail sales, HR analytics, and personal finance tracking — all showcased on my GitHub. These projects reflect my ability to transform raw data into meaningful insights for decision-making.
+
+Certified in Google Data Analytics and Google Business Intelligence, I’m focused on blending my finance background with modern analytical tools to solve real-world business problems, especially in retail stores, real estate, personal finance and many more.
+
+I'm passionate about financial literacy, self-development, and using data to empower smarter decisions. I'm currently seeking opportunities where I can grow as a Business Analyst and contribute value through insights and strategy.
 
 
 
@@ -18,7 +25,6 @@ Welcome to my portfolio repository! I am Sunny Sharma, a passionate Business Ana
 - **Stakeholder Management**
 - **Data Visualization**
 - **R Programming**
-- **Python**
 - **Business Communication**
 
 ---
